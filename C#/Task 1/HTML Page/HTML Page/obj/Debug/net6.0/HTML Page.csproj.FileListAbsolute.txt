@@ -1,0 +1,17 @@
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\bin\Debug\net6.0\HTML Page.exe
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\bin\Debug\net6.0\HTML Page.deps.json
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\bin\Debug\net6.0\HTML Page.runtimeconfig.json
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\bin\Debug\net6.0\HTML Page.dll
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\bin\Debug\net6.0\HTML Page.pdb
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\obj\Debug\net6.0\HTML Page.csproj.AssemblyReference.cache
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\obj\Debug\net6.0\HTML Page.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\obj\Debug\net6.0\HTML Page.AssemblyInfoInputs.cache
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\obj\Debug\net6.0\HTML Page.AssemblyInfo.cs
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\obj\Debug\net6.0\HTML Page.csproj.CoreCompileInputs.cache
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\obj\Debug\net6.0\HTML Page.csproj.CopyComplete
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\obj\Debug\net6.0\HTML Page.dll
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\obj\Debug\net6.0\refint\HTML Page.dll
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\obj\Debug\net6.0\HTML Page.pdb
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\obj\Debug\net6.0\HTML Page.genruntimeconfig.cache
+D:\Projects\Rara Crew\C#\Task 1\HTML Page\HTML Page\obj\Debug\net6.0\ref\HTML Page.dll

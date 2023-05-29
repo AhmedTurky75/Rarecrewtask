@@ -1,0 +1,20 @@
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\bin\Debug\net6.0\Pie Chart.exe
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\bin\Debug\net6.0\Pie Chart.deps.json
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\bin\Debug\net6.0\Pie Chart.runtimeconfig.json
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\bin\Debug\net6.0\Pie Chart.dll
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\bin\Debug\net6.0\Pie Chart.pdb
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\obj\Debug\net6.0\Pie Chart.csproj.AssemblyReference.cache
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\obj\Debug\net6.0\Pie Chart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\obj\Debug\net6.0\Pie Chart.AssemblyInfoInputs.cache
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\obj\Debug\net6.0\Pie Chart.AssemblyInfo.cs
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\obj\Debug\net6.0\Pie Chart.csproj.CoreCompileInputs.cache
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\obj\Debug\net6.0\Pie Chart.csproj.CopyComplete
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\obj\Debug\net6.0\Pie Chart.dll
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\obj\Debug\net6.0\refint\Pie Chart.dll
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\obj\Debug\net6.0\Pie Chart.pdb
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\obj\Debug\net6.0\Pie Chart.genruntimeconfig.cache
+D:\Projects\Rara Crew\C#\Task 2\Pie Chart\Pie Chart\obj\Debug\net6.0\ref\Pie Chart.dll
