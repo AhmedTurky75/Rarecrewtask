@@ -1,0 +1,15 @@
+<table class="table">
+  <thead>
+    <th>Name</th>
+    <th>Hours</th>
+  </thead>
+  <tbody>
+    <tr
+      *ngFor="let employee of totalTimeMap | keyvalue"
+      [ngClass]="{ 'table-danger': employee.value < 100 }"
+    >
+      <td>{{ employee.key }}</td>
+      <td>{{ employee.value | number : "1.0-0" }}</td>
+    </tr>
+  </tbody>
+</table>
